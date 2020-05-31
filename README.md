@@ -37,3 +37,6 @@ Help menu contains below functionality:
 # Unit Test Code Coverage 
 
 ![Code coverage](https://github.com/AmeeSankhesara/AirlineAndroidAppWithUnitTests/blob/master/Coverage.png)
+
+
+I have written some integration testing as well in android test.
