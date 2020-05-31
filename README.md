@@ -39,4 +39,4 @@ Help menu contains below functionality:
 ![Code coverage](https://github.com/AmeeSankhesara/AirlineAndroidAppWithUnitTests/blob/master/Coverage.png)
 
 
-I have written some integration testing as well in android test.
+Note : I have written some integration testing as well in android test which can be find in this folder AirlineAndroidApp⁩/app⁩/src⁩/⁨androidTest⁩
