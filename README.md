@@ -28,10 +28,13 @@ Help menu contains below functionality:
  
 # Number Of lines source code
 
+![Lines of code](https://github.com/AmeeSankhesara/AirlineAndroidAppWithUnitTests/blob/master/LinesOfCode.png)
 # Testing library used
 
   - Roboelectric
   - Junit
   - Mockito
   
-# Test Coverage
+# Unit Test Code Coverage 
+
+![Code coverage](https://github.com/AmeeSankhesara/AirlineAndroidAppWithUnitTests/blob/master/Coverage.png)
