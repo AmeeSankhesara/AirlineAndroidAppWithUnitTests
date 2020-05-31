@@ -36,7 +36,9 @@ Help menu contains below functionality:
   
 # Unit Test Code Coverage 
 
+Unit test location - AirlineAndroidApp/app/src/test/
+
 ![Code coverage](https://github.com/AmeeSankhesara/AirlineAndroidAppWithUnitTests/blob/master/Coverage.png)
 
 
-Note : I have written some integration testing as well in android test which can be find in this folder AirlineAndroidApp⁩/app⁩/src⁩/⁨androidTest⁩
+Note : I have written some integration testing as well in android test which can be find in this folder AirlineAndroidApp⁩/app⁩/src⁩/⁨androidTest⁩/
