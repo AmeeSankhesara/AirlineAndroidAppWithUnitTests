@@ -33,7 +33,6 @@ Help menu contains below functionality:
 
   - Roboelectric
   - Junit
-  - Mockito
   
 # Unit Test Code Coverage 
 
